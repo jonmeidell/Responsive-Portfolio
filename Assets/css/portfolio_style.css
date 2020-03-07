@@ -26,12 +26,16 @@ body {
 .me {
     font-family: 'Trade Winds';
     font-size: 60px;
+    padding-left: 65px;
 }
 
 #profile {
-    color: teal;
-    margin-left: 98px;
-    font-size: 45px;
+    font-size: 36px;
+    color: whitesmoke;
+    background-color: teal;
+    width: 112px;
+    padding: 10px;
+    font-family: 'Oxanium';
 }
 
 #box {
